@@ -23,7 +23,7 @@ Ph.D. candidate interested in prediction-based tools for crop improvement. I’m
 - Learn about my [projects](https://gcostaneto.github.io/), page under development ✍🏾
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Details about EnvRtype package on [GitHub](https://github.com/allogamous/EnvRtype/blob/master/README.md) 🏓
-- Visit my updates on [LinkedIn](https://www.linkedin.com/in/germanocneto/) 💼
+- Visit my updates on [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/)
 - Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanoceto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 
 ![G. Costa-Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcostaneto&show_icons=true&theme=dark&count_private=true)
