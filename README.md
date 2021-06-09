@@ -1,4 +1,4 @@
-### Personal Profile
+## Personal Profile
 
 
 - I’m currently working on the interplay between large-scale envirotyping (shortly, enviromics)
@@ -7,15 +7,21 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)](https://twitter.com/intent/follow?screen_name=samapriyaroy)
-[![GitHub Badge](https://img.shields.io/github/followers/samapriya?style=social)](https://github.com/samapriya?tab=followers)
+[![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
+[![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
 
 
 
-Over the last decade or more I have been working with all things geospatial applications, teaching, training and acting as a translator at large for technology needs. I believe data, tools, and platforms can benefit from each other if built around community and commons. 🌎My research interest has included big data analysis and large scale data science applications utilizing geospatial technology. I am passionate about satellite imagery, geospatial data, and data access at large and on how to make its use and implementation as openly available as possible. I am a community advocate and love to drive thought. 
+Ph.D. candidate interested in prediction-based tools for crop improvement. I’m passionate about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. In the last 8 years, I have been improving myself in this field in which I believe is my way to contribute to the development of sustainable and climate-smart agriculture. I hope to take the next steps towards joining a solid biostatistics team in the global seed industry or in the public sector. I visualize my personal profile in the following mission and values:
+
+•	Science thinking for quality improvement in agricultural research in an environmental-safe way;
+•	Search for research gaps to be filled and solved in genomic-based selection for staple-food crops;
+•	Focus on anticipating problems, learning and applying cutting-edge technologies and dealing with multidisciplinary tasks.
+
 
 ## Find me around the web 🌎: <a href="https://github.com/gcostaneto">
 - Learn about my [projects](https://gcostaneto.github.io/), page under development ✍🏾
+- My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Details about EnvRtype package on [GitHub](https://github.com/allogamous/EnvRtype/blob/master/README.md) 🏓
 - Visit my updates on [LinkedIn](https://www.linkedin.com/in/germanocneto/) 💼
 - Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanoceto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
