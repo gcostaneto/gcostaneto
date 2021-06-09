@@ -8,7 +8,6 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 
 [![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
-[![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/germanocneto?tab=followers)
 [![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
 
 
