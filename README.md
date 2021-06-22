@@ -9,7 +9,7 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/gcostaneto">
+## Find me around the web 🌎 <a href="https://github.com/gcostaneto">
 - ✍🏾 [Current projects and lectures](https://github.com/gcostaneto/gcostaneto/blob/main/Projects.md) 
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Check my projects in R in my [Git Hub Repository](https://github.com/gcostaneto?tab=repositories)
