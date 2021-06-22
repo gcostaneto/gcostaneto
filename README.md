@@ -14,11 +14,6 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 Ph.D. candidate interested in prediction-based tools for crop improvement. I’m passionate about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. In the last 8 years, I have been improving myself in this field in which I believe is my way to contribute to the development of sustainable and climate-smart agriculture.  
 
-I visualize my personal profile in the following mission and values:
-
--	Science thinking for quality improvement in agricultural research in an environmental-safe way;
--	Search for research gaps to be filled and solved in genomic-based selection for staple-food crops;
--	Focus on anticipating problems, learning and applying cutting-edge technologies and dealing with multidisciplinary tasks.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/gcostaneto">
