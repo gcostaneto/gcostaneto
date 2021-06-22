@@ -12,11 +12,6 @@ Most of my projects are in R programming language.
 
 More detail about my scientific publications can be found in my personal [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
 
-
-## Data bases 
-
-Most of my studies were conducted using tropical maize data from the Allogamous Plant Breeding Laboratory (University of São Paulo). This data can be download at the [Mendeley Respository](https://data.mendeley.com/research-data/?page=0&search=%22Fritsche-Neto%22%20)
-
 ## Lectures
 
 - [**Envirotyping-informed tools for GxE analysis**](https://www.youtube.com/watch?v=apg-o6NHLD8&t=78s) (*english/portuguese*) - I INTERGEN, Plant Science Symposia Series, 14h July 2020. Brazil
@@ -30,3 +25,9 @@ Most of my studies were conducted using tropical maize data from the Allogamous 
 
 - (**Linkedin**)  [Reading review papers helped me with mental rehabilitation after COVID-19](https://www.linkedin.com/pulse/reading-review-papers-helped-me-mental-rehabilitation-costa-neto/)
 - (**EMBRAPA boletin 56**) [Environmental Information for modeling GxE in plant breeding](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1124389/1/CNPAF-2020-BPD56.pdf) (*portuguese*)
+- 
+## Data bases
+
+Most of my studies were conducted using tropical maize data from the Allogamous Plant Breeding Laboratory (University of São Paulo). This data can be download at the [Mendeley Respository](https://data.mendeley.com/research-data/?page=0&search=%22Fritsche-Neto%22%20)
+
+
