@@ -9,11 +9,6 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
-[![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
-
-
-
 ## Find me around the web 🌎: <a href="https://github.com/gcostaneto">
 - ✍🏾 [Current projects and lectures](https://github.com/gcostaneto/gcostaneto/blob/main/Projects.md) 
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
@@ -22,3 +17,7 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 - Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanoceto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 
 ![G. Costa-Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcostaneto&show_icons=true&theme=dark&count_private=true)
+
+[![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
+[![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
+
