@@ -10,7 +10,7 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 
 ## Find me around the web 🌎 <a href="https://github.com/gcostaneto">
-- ✍🏾 [Current projects and lectures](https://github.com/gcostaneto/gcostaneto/blob/main/Projects.md) 
+
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Check my projects in R in my [Git Hub Repository](https://github.com/gcostaneto?tab=repositories)
 - Visit my updates on [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/)
@@ -43,7 +43,7 @@ More detail about my scientific publications can be found in my personal [Resear
 
 - (**Linkedin**)  [Reading review papers helped me with mental rehabilitation after COVID-19](https://www.linkedin.com/pulse/reading-review-papers-helped-me-mental-rehabilitation-costa-neto/)
 - (**EMBRAPA boletin 56**) [Environmental Information for modeling GxE in plant breeding](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1124389/1/CNPAF-2020-BPD56.pdf) (*portuguese*)
-- 
+
 ## Data bases
 
 Most of my studies were conducted using tropical maize data from the Allogamous Plant Breeding Laboratory (University of São Paulo). This data can be download at the [Mendeley Respository](https://data.mendeley.com/research-data/?page=0&search=%22Fritsche-Neto%22%20)
