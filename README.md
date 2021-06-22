@@ -1,5 +1,7 @@
 ## Personal Profile
 
+Ph.D. candidate interested in prediction-based tools for crop improvement. I’m passionate about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. In the last 8 years, I have been improving myself in this field in which I believe is my way to contribute to the development of sustainable and climate-smart agriculture.  
+
 
 - I’m currently working on the interplay between large-scale envirotyping (shortly, enviromics)
 and Quantitative Genetics for purposes of Predictive Breeding.
@@ -9,10 +11,6 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 
 [![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
 [![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
-
-
-
-Ph.D. candidate interested in prediction-based tools for crop improvement. I’m passionate about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. In the last 8 years, I have been improving myself in this field in which I believe is my way to contribute to the development of sustainable and climate-smart agriculture.  
 
 
 
