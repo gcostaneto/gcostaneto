@@ -37,6 +37,7 @@ More detail about my scientific publications can be found in my personal [Resear
 
 ## Courses and Webinars
 
+- Short Course: EnvRtype v1.0 -- Git Hub (*[portuguese]()*)
 - Short Course: Modeling GxE interaction with phenotypic, genomic and enviromic data (*[portuguese]()*)
 
 ## Web Articles
