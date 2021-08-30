@@ -1,6 +1,6 @@
 ## Personal Profile
 
-Postdoctoral Associate at Cornell University (Buckler Lab) interested in prediction-based tools for crop improvement. I’m passionate about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. In the last 8 years, I have been improving myself in this field in which I believe is my way to contribute to the development of sustainable and climate-smart agriculture.  
+I recently joined the Buckler Lab (as Postdoctoral Associate at Cornell University). I'm interested in prediction-based tools for crop improvement, specially about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments. 
 
 
 - I’m currently working on the interplay between large-scale envirotyping (shortly, enviromics)
