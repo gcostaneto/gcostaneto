@@ -14,7 +14,7 @@ and Quantitative Genetics for purposes of Predictive Breeding.
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Check my projects in R in my [Git Hub Repository](https://github.com/gcostaneto?tab=repositories)
 - Visit my updates on [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/)
-- Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanoceto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
+- Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanocneto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 
 ## Projects
 
