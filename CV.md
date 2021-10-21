@@ -11,10 +11,8 @@ Web Site: https://github.com/gcostaneto
 # **EDUCATION**
 
 • **PhD Genetics & Plant Breeding (2021)**, University of São Paulo, Piracicaba, São Paulo, BR
-Thesis: Enviromics, nonlinear kernels and optimized training sets for a climate-smart genomic prediction of yield plasticity in maize
+Thesis: [Enviromics, nonlinear kernels and optimized training sets for a climate-smart genomic prediction of yield plasticity in maize](https://github.com/gcostaneto/gcostaneto/blob/main/thesis.md)
 Advisor: Roberto Fritsche-Neto (USP) & Jose Crossa (CIMMYT)
-
-Chapter 1: [**EnvRtype: a software to interplay enviromics and quantitative genomics in agriculture**](https://academic.oup.com/g3journal/article/11/4/jkab040/6129777)
 
 • **MS Plant Breeding (2017)**, Federal University of Goiás, UFG: Goiânia, Goiás, BR
 Thesis: Integrating environmental covariates and thematic maps in genotype-environment interaction analysis in upland rice
