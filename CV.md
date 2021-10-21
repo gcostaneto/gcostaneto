@@ -1,10 +1,15 @@
 ## **Curriculum Vitae**
 
 **Germano Costa-Neto**
+
 Predictive Breeding & Quantitative Genetics
+
 121 Pleasant Grove Road, Ithaca, NY, USA
+
 germano.cneto@gmail.com
+
 +1 (607) 262-1278 @gcostaneto
+
 Web Site: https://github.com/gcostaneto
 
 
