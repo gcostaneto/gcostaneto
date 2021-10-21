@@ -8,7 +8,7 @@ germano.cneto@gmail.com
 Web Site: https://github.com/gcostaneto
 
 
-# **EDUCATION**
+### **EDUCATION**
 
 • **PhD Genetics & Plant Breeding (2021)**, University of São Paulo, Piracicaba, São Paulo, BR
 Thesis: [Enviromics, nonlinear kernels and optimized training sets for a climate-smart genomic prediction of yield plasticity in maize](https://github.com/gcostaneto/gcostaneto/blob/main/thesis.md)
@@ -23,8 +23,8 @@ Thesis: On the use of crop simulation models to support environmental characteri
 Advisor: Alexandre Bryan Heinemman (Embrapa)
 
 
+### **AWARDS**
 
-# **AWARDS*
 2019 Winner at Rolland Vencovsky Award, III International Meeting on Plant Breeding/Corteva
 2018 Finalist at Rolland Vencovsky Award, II International Meeting on Plant Breeding/Corteva
 2017 Finalist at Young Talent Award, Embrapa Rice & Beans
