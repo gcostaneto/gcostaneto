@@ -29,7 +29,7 @@ More detail about my scientific publications can be found in my personal [Resear
 ## Lectures
 
 - [**Enviromics for a climate-smart genomic prediction: the good, the bad and the ugly**](https://www.youtube.com/watch?v=2Gf4ufWzJyQ) - Brazilian Congress on Plant Breeding, December 2021
-- [**Envirotyping & enviromics in plant breeding / Ambitipagem e Ambiômica no Melhoramento de Plantas**](in dev,) (*english/portuguese*) - GEMS-R webinar, 28h August 2021. Brazil
+- [**Envirotyping & enviromics in plant breeding / Ambitipagem e Ambiômica no Melhoramento de Plantas**](*english/portuguese*) - GEMS-R webinar, 28h August 2021. Brazil
 - [**Envirotyping-informed tools for GxE analysis**](https://www.youtube.com/watch?v=apg-o6NHLD8&t=78s) (*english/portuguese*) - I INTERGEN, Plant Science Symposia Series, 14h July 2020. Brazil
 - [**Envirotype-to-phenotype modelling in genomic prediction**](https://www.youtube.com/watch?v=IPLFPUVBp40&t=3301s) (*english/portuguese*) , Departament of Genetics, University of São Paulo, 18th Setp 2020, Brazil
 
