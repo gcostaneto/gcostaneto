@@ -27,6 +27,8 @@ Most of my projects are in R programming language.
 More detail about my scientific publications can be found in my personal [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
 
 ## Lectures
+  
+- [**Enviromics-informed genomic prediction in tropical maize**](https://www.youtube.com/watch?v=2-sniNxjxRU&t=245s)
 
 - [**Enviromics for a climate-smart genomic prediction: the good, the bad and the ugly**](https://www.youtube.com/watch?v=2Gf4ufWzJyQ) - Brazilian Congress on Plant Breeding, December 2021
 - [**Envirotyping & enviromics in plant breeding / Ambitipagem e Ambiômica no Melhoramento de Plantas**](*english/portuguese*) - GEMS-R webinar, 28h August 2021. Brazil
