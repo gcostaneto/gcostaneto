@@ -28,7 +28,7 @@ More detail about my scientific publications can be found in my personal [Resear
 
 ## Lectures
   
-- [**Enviromics-informed genomic prediction in tropical maize**](https://www.youtube.com/watch?v=2-sniNxjxRU&t=245s)
+- [**Enviromics-informed genomic prediction in tropical maize**](https://www.youtube.com/watch?v=2-sniNxjxRU&t=245s) - Zea Evolution Meeting, Maize Genetics Society of United States
 
 - [**Enviromics for a climate-smart genomic prediction: the good, the bad and the ugly**](https://www.youtube.com/watch?v=2Gf4ufWzJyQ) - Brazilian Congress on Plant Breeding, December 2021
 - [**Envirotyping & enviromics in plant breeding / Ambitipagem e Ambiômica no Melhoramento de Plantas**](*english/portuguese*) - GEMS-R webinar, 28h August 2021. Brazil
