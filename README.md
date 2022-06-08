@@ -1,6 +1,6 @@
 ## Personal Profile
 
-I'm interested in prediction-based tools for crop improvement, specially about biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments.  I recently joined the Buckler Lab (as Postdoctoral Associate at Cornell University) and my plan is to work with environmental wide association analysis (enviromics) and high throughput phenotyping (phenomics) aimed for help the identification of adaptative features in crops species. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md)
+I'm interested in prediction-based tools for crop improvement, biometrics underlying phenomics, enviromics, and quantitative genetics for multiple environments.  Agronomist, MS in Plant Breeding and PhD in Quantitative Genetics and Plant Breeding. I recently joined the Buckler Lab as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies.
 
 
 
