@@ -49,7 +49,7 @@ More detail about my scientific publications can be found in my personal [Resear
 
 ## Web Articles
 
-- (**Linkedin**)  [Collection of daily weather (NASA POWER API) and elevation data (SRTM) globally]([https://www.linkedin.com/pulse/reading-review-papers-helped-me-mental-rehabilitation-costa-neto/](https://www.linkedin.com/pulse/collection-daily-weather-nasa-power-api-elevation-data-costa-neto/)
+- (**Linkedin**)  [Collection of daily weather (NASA POWER API) and elevation data (SRTM) globally](https://www.linkedin.com/pulse/collection-daily-weather-nasa-power-api-elevation-data-costa-neto/)
 - (**Brazilian Society of Plant Breeding**) [Enviromics: bridging different sources of data, building one framework](https://cbab.sbmp.org.br/2021/07/06/article-enviromics-bridging-different-sources-of-data-building-one-framework/)
 - (**Linkedin**)  [Reading review papers helped me with mental rehabilitation after COVID-19](https://www.linkedin.com/pulse/reading-review-papers-helped-me-mental-rehabilitation-costa-neto/)
 - (**EMBRAPA boletin 56**) [Environmental Information for modeling GxE in plant breeding](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1124389/1/CNPAF-2020-BPD56.pdf) (*portuguese*)
