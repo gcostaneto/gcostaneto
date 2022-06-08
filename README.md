@@ -18,10 +18,17 @@ Most of my projects are in R programming language.
 
 
 - Envirotyping pipeline using [EnvRtype package](https://github.com/allogamous/EnvRtype/blob/master/README.md)
+- <!-- -->
 - Genomic enabled prediction using [non-linear kernel methods](https://github.com/gcostaneto/KernelMethods)
 <!-- - Implement maps of adaptation using [frGIS package](https://github.com/gcostaneto/frGIS) -->
 - Enviromic-aided Genomic Prediction ([E-GP](https://github.com/gcostaneto/EGP/blob/main/README.md))
-
+- <!-- -->
+- Environmental-wide association and envirotype-to-phenotype association (EPA) 
+  - <!-- -->
+- Adaptive Allele mining by environmental GWAS (envGWAS)
+- <!-- -->
+- Multi-enviromics layers for GxE prediction
+  
 ## Research Gate
 
 More detail about my scientific publications can be found in my personal [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
