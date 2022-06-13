@@ -6,7 +6,7 @@ Address: 175 Biotechnology Bldg  Ithaca, NY 14853-2703
 e-mail:  gmc222@cornell.edu. or germano.cneto@gmail.com
 Curriculum Vitae [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 
-## **Find me around the web** 🌎 <a href="https://github.com/gcostaneto">
+## **Find me around the web** 🌎
 
 - **Publications**: [ORCID](https://orcid.org/0000-0003-1137-6786) and [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
  
