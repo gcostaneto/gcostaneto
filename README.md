@@ -1,6 +1,6 @@
 ## Bio
 
-I'm a quantittive geneticist with background on prediction-based tools, data analytics, ecophysiology, phenomics, genomics and enviromics. I recently joined the Buckler Lab as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies. My current research interests are focused on the incorporation of enviromics for understanding and predicting GxE and plant adaptation across multi-omics levels, diverse trait architectures, and species. 
+I'm a quantitative geneticist with background on prediction-based tools, data analytics, ecophysiology, phenomics, genomics and enviromics. I recently joined the Buckler Lab as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies. My current research interests are focused on the incorporation of enviromics for understanding and predicting GxE and plant adaptation across multi-omics levels, diverse trait architectures, and species. 
 
 Address: 175 Biotechnology Bldg  Ithaca, NY 14853-2703  
 e-mail:  gmc222@cornell.edu. or germano.cneto@gmail.com
