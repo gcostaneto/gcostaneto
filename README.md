@@ -9,6 +9,7 @@ Curriculum Vitae [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germ
 ## **Find me around the web** 🌎 <a href="https://github.com/gcostaneto">
 
 - **Publications**: [ORCID](https://orcid.org/0000-0003-1137-6786) and [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
+ 
 - **Social Media**: [LinkedIn](https://www.linkedin.com/in/germanocneto/) and [Twitter](https://twitter.com/germanocneto)
 
 ## **GitHub Projects**
