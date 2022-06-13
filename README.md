@@ -4,6 +4,7 @@ I'm a quantitative geneticist with background on prediction-based tools, data an
 
 Address: 175 Biotechnology Bldg  Ithaca, NY 14853-2703  
 e-mail:  gmc222@cornell.edu. or germano.cneto@gmail.com
+
 Curriculum Vitae [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 
 ## **Find me around the web** 🌎
