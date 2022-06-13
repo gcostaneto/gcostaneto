@@ -1,18 +1,18 @@
-## Personal Profile
+## Bio
 
-I'm a quantittive geneticist with background on prediction-based tools, data analytics, ecophysiology, phenomics, genomics and enviromics. I recently joined the Buckler Lab as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies. My current research interests are focused on the incorporation of enviromics for understanding and predicting GxE and plant adaptation across multi-omics levels, diverse trait architectures, and species. e-mail: germano.cneto@gmail.com  / gmc222@cornell.edu
+I'm a quantittive geneticist with background on prediction-based tools, data analytics, ecophysiology, phenomics, genomics and enviromics. I recently joined the Buckler Lab as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](ttps://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies. My current research interests are focused on the incorporation of enviromics for understanding and predicting GxE and plant adaptation across multi-omics levels, diverse trait architectures, and species. 
 
+Address: 175 Biotechnology Bldg  Ithaca, NY 14853-2703  
+e-mail:  gmc222@cornell.edu. or germano.cneto@gmail.com
 
 
 ## **Find me around the web** 🌎 <a href="https://github.com/gcostaneto">
 
-- My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and my personal [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
-- Check my projects in R in my [Git Hub Repository](https://github.com/gcostaneto?tab=repositories)
-- Visit my updates on [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/)
-- Follow my project updates on [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanocneto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
+- My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
+- Social Media: [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/) and [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanocneto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
 
 
-## Projects
+## **GitHub Projects**
 
 Most of my projects are in R programming language.
 
