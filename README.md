@@ -10,7 +10,7 @@ e-mail:  gmc222@cornell.edu. or germano.cneto@gmail.com
 
 - My Scientific Publications [ORCID](https://orcid.org/0000-0003-1137-6786) and [CV](https://github.com/gcostaneto/gcostaneto/blob/main/CV_Germano%20Costa%20Neto_update.pdf)
 - Social Media: [![Linkedin URL](https://img.shields.io/badge/LinkedIn-germanocneto?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanocneto/) and [Twitter](https://twitter.com/samapriyaroy) <a href="https://twitter.com/germanocneto"><img width="30" height="30" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
-
+-[Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
 
 ## **GitHub Projects**
 
@@ -29,9 +29,6 @@ Most of my projects are in R programming language.
  <!-- -->
 - Multi-enviromics layers for GxE prediction
   
-## Research Gate
-
-More detail about my scientific publications can be found in my personal [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
 
 ## Lectures
   
