@@ -29,6 +29,8 @@ Most of my projects are in R programming language.
 - Adaptive Allele mining by environmental GWAS (envGWAS)
  <!-- -->
 - Multi-enviromics layers for GxE prediction
+ <!-- -->
+- CVandME: Multiple Cross-validation schemes for Prediction-based Breeding
   
 
 ## Lectures
