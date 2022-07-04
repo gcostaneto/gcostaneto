@@ -44,7 +44,8 @@ Most of my projects are in R programming language.
 
 ## Courses and Webinars
 
-- Short Course: EnvRtype v1.0 (Aug 2021, for GEMS) -- Git Hub (*[english](https://github.com/gcostaneto/GEMS_R)*)
+- Short Course: EnvRtype v1.0.1 (April 2022, for GenMelhor Study Group, UFV, Brazil) -- Git Hub (*[english]*)
+- Short Course: EnvRtype v1.0.0 (Aug 2021, for GEMS) -- Git Hub (*[english](https://github.com/gcostaneto/GEMS_R)*)
 - Short Course: Modeling GxE interaction with phenotypic, genomic and enviromic data (*[portuguese]()*)
 
 ## Web Articles
