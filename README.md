@@ -31,7 +31,7 @@ Most of my projects are in R programming language.
 - CVandME: Multiple Cross-validation schemes for Prediction-based Breeding
   
 
-## Lectures and Talks
+## Online Lectures and Talks
   
 - [**Enviromics-informed genomic prediction in tropical maize**](https://www.youtube.com/watch?v=2-sniNxjxRU&t=245s) - Zea Evolution Meeting, Maize Genetics Society of United States
 
