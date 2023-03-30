@@ -1,7 +1,9 @@
 ## Bio
 
-Passionate about plant science and computational statistics. I'm a quantitative geneticist interested in understanding the plasticity of yield and adaptive traits, but also in the core of breeding analytics tools and prediction-based methods that could be used for designing better crops -- that is, more adapted, resource-efficient, and productive. I recently joined the [Buckler Lab](https://www.maizegenetics.net/) as Postdoctoral Associate at Cornell University, Ithaca, NY. I'm the creator and maintainer of the [EnvRtype package](https://github.com/allogamous/EnvRtype/blob/master/README.md) dedicated to help the implementation of enviromics studies. My current research interests are focused on the incorporation of enviromics for understanding and predicting GxE and plant adaptation across multi-omics levels, diverse trait architectures, and species. 
+I’m passionate about plant science and computational statistics, and my research focuses on using quantitative genetics to analyze and predict complex traits in plants. To advance our understanding of plant traits and their genetic underpinnings, my central research hypothesis investigates the role of genetics and environmental factors in driving the adaptation of plant species. I’m particularly interested in exploring how this knowledge can be used to develop data analytics tools for plant breeding programs, with the goal of enhancing their effectiveness and efficiency. Overall, my work seeks to bridge the gap between cutting-edge statistical methods and real-world plant breeding applications. 
 
+Right now, I'm serving as a postdoctoral researcher at Cornell University , which focuses on maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
+ 
 Address: Cornell University, 175 Biotechnology Bldg  Ithaca, NY 14853-2703  
 e-mail:  gmc222@cornell.edu or germano.cneto@gmail.com
 
