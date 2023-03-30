@@ -2,7 +2,7 @@
 
 I’m passionate about plant science and computational statistics, and my research focuses on using quantitative genetics to analyze and predict complex traits in plants. To advance our understanding of plant traits and their genetic underpinnings, my central research hypothesis investigates the role of genetics and environmental factors in driving the adaptation of plant species. I’m particularly interested in exploring how this knowledge can be used to develop data analytics tools for plant breeding programs, with the goal of enhancing their effectiveness and efficiency. 
 
-Right now, I'm serving as a postdoctoral researcher at Cornell University , which focuses on gene discovery and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
+Right now, I'm serving as a postdoctoral researcher at Cornell University , which focuses on evolutionary alelle mining, gene discovery and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
  
 Address: Cornell University, 175 Biotechnology Bldg  Ithaca, NY 14853-2703  
 e-mail:  gmc222@cornell.edu or germano.cneto@gmail.com
