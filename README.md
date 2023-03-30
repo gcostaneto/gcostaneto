@@ -1,6 +1,6 @@
 ## Bio
 
-I'm passionate about plant science and computational statistics, and my research focuses on using quantitative genetics to analyze and predict complex traits in plants. To advance our understanding of plant traits and their genetic underpinnings, my central research hypothesis investigates the role of genetics and environmental factors in driving the adaptation and plasticity of plant species. I have applied this knowledge to develop data analytics tools for plant breeding programs, to enhance their effectiveness and efficiency in delivering cultivars that can address society's needs and demands.
+I'm passionate about plant science and computational statistics, and my research focuses on using quantitative genetics to analyze and predict complex traits in plants. To advance our understanding of plant traits and their underlying genetic mechanisms,  my research investigates the role of diverse data types, including genomics, enviromics (climate and soil features), and phenomics, in driving adaptation and plasticity across breeding trials and diversity panels. I have applied this knowledge to develop data analytics tools for plant breeding programs, to enhance their effectiveness and efficiency in delivering cultivars that can address society's needs and demands.
 
 Right now, I'm serving as a postdoctoral researcher at Cornell University, which focuses on evolutionary allele mining, gene discovery, and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
  
