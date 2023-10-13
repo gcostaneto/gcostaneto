@@ -1,6 +1,6 @@
 ## Bio
 
-Since my B.S in Agronomy and Crop Sciences to my P.hD. in Quantitative Genetics and Plant Breeding, I've been working on mathematical models capable to describe how plants respond to changes in their environment in terms of plasticity and adaptation. I study quantitative genetics models capable to predict and analyze complex plant traits, integrating multiple data types such as phenomics, genomics, weather and soil information, remote sensing, satellite-based data (GIS), and ecophysiology models. By combining my knowledge with other fields like biometrics, computational biology, experimental statistics, and breeding, I aim to help plant scientists address society's growing demands for a sustainable, productive, and resource-efficient agricultural system.
+Agricultural Geneticist and Biostatistician. My research focus on developing mathematical models capable of describing how plants respond to changes in their environment in terms of plasticity, adaptation and productivity. I use applied quantitative genetics models capable of predicting and analyzing complex plant traits, integrating various data types, including phenomics, genomics, weather and soil information, remote sensing, satellite-based data (GIS), and ecophysiology models. Through the fusion of my expertise with other fields such as biometrics, computational biology, experimental statistics, and breeding, my goal is to assist plant scientists in addressing society's growing demands for a sustainable, productive, and resource-efficient agricultural system.
 
 Right now, I'm serving as a postdoctoral researcher at Cornell University, which focuses on evolutionary allele mining, gene discovery, and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
  
@@ -9,7 +9,7 @@ e-mail:  gmc222@cornell.edu or germano.cneto@gmail.com
 
 ## **Find me around the web** 🌎
 
-- **Publications**: [ORCID](https://orcid.org/0000-0003-1137-6786) and [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
+- **Publications**: [Google Scholar](https://scholar.google.com/citations?user=wUUhKgUAAAAJ&hl=en&authuser=1) [ORCID](https://orcid.org/0000-0003-1137-6786) and [Research Gate profile](https://www.researchgate.net/profile/Germano-Costa-Neto)
  
 - **Social Media**: [LinkedIn](https://www.linkedin.com/in/germanocneto/) and [Twitter](https://twitter.com/germanocneto)
 
