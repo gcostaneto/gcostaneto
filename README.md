@@ -1,6 +1,6 @@
 ## Bio
 
-Agricultural Geneticist and Biostatistician. 
+Germano Costa-Neto, Ph.D. - Agricultural Geneticist and Biostatistician. 
 My research focuses on developing mathematical models capable of describing how plants respond to changes in their environment in terms of plasticity, adaptation, and productivity. I utilize applied quantitative genetics models capable of predicting and analyzing complex plant traits, integrating various data types, including phenomics, genomics, weather and soil information, remote sensing, satellite-based data (GIS), and ecophysiology models. Through the integration of my expertise with other fields such as biometrics, computational biology, experimental design/statistics, and breeding, my goal is to assist plant scientists in addressing society's growing demands for a sustainable, productive, and resource-efficient agricultural system.
 
 Right now, I'm serving as a postdoctoral researcher at Cornell University, which focuses on evolutionary allele mining, gene discovery, and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
