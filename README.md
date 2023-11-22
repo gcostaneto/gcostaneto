@@ -1,6 +1,6 @@
 ## Bio
 
-Germano Costa-Neto, Ph.D. - Agricultural Geneticist and Biostatistician. 
+Germano Martins F. Costa-Neto, Ph.D. - Biostatistician and Agricultural Geneticist.
 My research focuses on developing mathematical models capable of describing how plants respond to changes in their environment in terms of plasticity, adaptation, and productivity. I utilize applied quantitative genetics models capable of predicting and analyzing complex plant traits, integrating various data types, including phenomics, genomics, weather and soil information, remote sensing, satellite-based data (GIS), and ecophysiology models. Through the integration of my expertise with other fields such as biometrics, computational biology, experimental design/statistics, and breeding, my goal is to assist plant scientists in addressing society's growing demands for a sustainable, productive, and resource-efficient agricultural system.
 
 Right now, I'm serving as a postdoctoral researcher at Cornell University, which focuses on evolutionary allele mining, gene discovery, and GxE modeling for maize genetics (check out [Buckler's Lab webpage](https://www.maizegenetics.net/)).
@@ -68,6 +68,8 @@ Most of my studies were conducted using tropical maize data from the Allogamous 
 Frontier's Loop
 
 <div align='center'>
- <a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159120&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small>
+ <a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159121&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small>
 </div>
+
+
 
