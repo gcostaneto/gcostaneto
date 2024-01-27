@@ -5,7 +5,7 @@ My research focuses on developing mathematical models capable of describing how 
 
 e-mail:   germano.cneto@gmail.com
 
-Job: Biostatistician - Seeds R&D Analytics (Global) and Trait Introgression
+Job: Biostatistician - Syngenta's Seeds R&D Analytics (Global) and Trait Introgression
 
 ## **Find me around the web** 🌎
 
