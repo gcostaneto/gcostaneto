@@ -1,6 +1,17 @@
 ## Bio
 
-Germano Martins F. Costa-Neto, Ph.D. - Biostatistician and Agricultural Geneticist.
+Neurodivergent parent, racing cars fan, and cycling enthusiast. 
+
+I'm a scientist at Syngenta Seeds (North America), working in the global biostatistics team within molecular breeding. 
+
+My science domain lies in quantitative genetics and biometrics for modeling complex traits, elucidating their genetic architecture, and predicting their variation across environments. I try to integrate diverse data types like phenomics, genomics, and enviromics/envirotyping for breeding analytics, and techniques, such as machine learning, experimental statistics, hypothesis testing, and simulations.
+
+My mission is to develop cutting-edge data analytics pipelines for plant breeding that enable the development of varieties for a sustainable, productive, and resource-efficient agricultural system.
+
+I also volunteer as a mentor for students and early-career researchers, trying to help in their professional development.
+
+## Research
+
 My research focuses on developing mathematical models capable of describing how plants respond to changes in their environment in terms of plasticity, adaptation, and productivity. I utilize applied quantitative genetics models capable of predicting and analyzing complex plant traits, integrating various data types, including phenomics, genomics, weather and soil information, remote sensing, satellite-based data (GIS), and ecophysiology models. Through the integration of my expertise with other fields such as biometrics, computational biology, experimental design/statistics, and breeding, my goal is to assist plant scientists in addressing society's growing demands for a sustainable, productive, and resource-efficient agricultural system.
 
 e-mail:   germano.cneto@gmail.com
