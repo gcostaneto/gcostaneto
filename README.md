@@ -2,8 +2,6 @@
 
 Neurodivergent parent, racing cars fan, and cycling enthusiast. 
 
-I'm a scientist at Syngenta Seeds (North America), leading the Global Enviromics team for Digital R&D in Seeds Research. 
-
 My science domain lies in quantitative genetics and biometrics for modeling complex traits, elucidating their genetic architecture, and predicting their variation across environments. I try to integrate diverse data types like phenomics, genomics, and enviromics/envirotyping for breeding analytics, and techniques, such as machine learning, experimental statistics, hypothesis testing, and simulations.
 
 My mission is to develop cutting-edge data analytics pipelines for plant breeding that enable the development of varieties for a sustainable, productive, and resource-efficient agricultural system.
