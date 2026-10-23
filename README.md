@@ -43,20 +43,6 @@ e-mail:   germano.cneto@gmail.com
 - (**Linkedin**)  [Reading review papers helped me with mental rehabilitation after COVID-19](https://www.linkedin.com/pulse/reading-review-papers-helped-me-mental-rehabilitation-costa-neto/)
 - (**EMBRAPA boletin 56**) [Environmental Information for modeling GxE in plant breeding](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1124389/1/CNPAF-2020-BPD56.pdf) (*portuguese*)
 
-## Data bases
-
-Most of my studies were conducted using tropical maize data from the Allogamous Plant Breeding Laboratory (University of São Paulo). This data can be download at the [Mendeley Respository](https://data.mendeley.com/research-data/?page=0&search=%22Fritsche-Neto%22%20)
-
-
-![G. Costa-Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcostaneto&show_icons=true&theme=dark&count_private=true)
-
-[![Twitter URL](https://img.shields.io/twitter/follow/germanocneto?style=social)](https://twitter.com/intent/follow?screen_name=germanocneto)
-[![GitHub Badge](https://img.shields.io/github/followers/gcostaneto?style=social)](https://github.com/gcostaneto?tab=followers)
-Frontier's Loop
-
-<div align='center'>
- <a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=159121&s=288' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small>
-</div>
 
 
 
