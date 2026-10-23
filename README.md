@@ -1,8 +1,6 @@
 ## Bio
 
-Neurodivergent parent, racing cars fan, and cycling enthusiast. 
-
-My science domain lies in quantitative genetics and biometrics for modeling complex traits, elucidating their genetic architecture, and predicting their variation across environments. I try to integrate diverse data types like phenomics, genomics, and enviromics/envirotyping for breeding analytics, and techniques, such as machine learning, experimental statistics, hypothesis testing, and simulations.
+Neurodivergent parent, racing cars fan, and cycling enthusiast (yet not doing it too much in the last months). My science domain lies in quantitative genetics and biometrics for modeling complex traits, elucidating their genetic architecture, and predicting their variation across environments. I try to integrate diverse data types like phenomics, genomics, and enviromics/envirotyping for breeding analytics, and techniques, such as machine learning, experimental statistics, hypothesis testing, and simulations.
 
 My mission is to develop cutting-edge data analytics pipelines for plant breeding that enable the development of varieties for a sustainable, productive, and resource-efficient agricultural system.
 
@@ -20,24 +18,7 @@ e-mail:   germano.cneto@gmail.com
  
 - **Social Media**: [LinkedIn](https://www.linkedin.com/in/germanocneto/) and [Twitter](https://twitter.com/germanocneto)
 
-## **GitHub Projects**
-
-Most of my projects are in R programming language.
-
-
-- Envirotyping pipeline using [EnvRtype package](https://github.com/allogamous/EnvRtype/blob/master/README.md)
- <!-- -->
-- Genomic enabled prediction using [non-linear kernel methods](https://github.com/gcostaneto/KernelMethods)
-<!-- - Implement maps of adaptation using [frGIS package](https://github.com/gcostaneto/frGIS) -->
-- Enviromic-aided Genomic Prediction ([E-GP](https://github.com/gcostaneto/EGP/blob/main/README.md))
- <!-- -->
-- Environmental-wide association and envirotype-to-phenotype association (EPA) 
- <!-- -->
-- Adaptive Allele mining by environmental GWAS (envGWAS)
- <!-- -->
-- Multi-enviromics layers for GxE prediction
- <!-- -->
-- CVandME: Multiple Cross-validation schemes for Prediction-based Breeding
+- Envirotyping pipeline using [EnvRtype package](https://github.com/gcostaneto/EnvRtype/)
   
 
 ## Online Lectures and Talks
